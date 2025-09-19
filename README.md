@@ -26,6 +26,7 @@ The aim was to extract insights about **aircraft occupancy, seat utilization, an
    - Rolling average of daily tickets  
 
 ---
+Full dataset size is large, so only a small sample is included here for demonstration. Full dataset can be downloaded from  Kaggle or generated separately.
 
 ## 📊 Sample Visualizations
 - **Occupancy Rate by Aircraft**  
